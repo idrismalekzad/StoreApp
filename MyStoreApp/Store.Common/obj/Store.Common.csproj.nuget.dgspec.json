@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Soheil\\Mvc\\Tamarin\\Bugeto AspCore 5\\StoreProject\\MyStoreApp\\Store.Common\\Store.Common.csproj": {}
+    "F:\\Soheil\\Mvc\\Tamarin\\Bugeto AspCore 5\\MystoreInGithub\\New shortcut.lnk\\MyStoreApp\\Store.Common\\Store.Common.csproj": {}
   },
   "projects": {
-    "F:\\Soheil\\Mvc\\Tamarin\\Bugeto AspCore 5\\StoreProject\\MyStoreApp\\Store.Common\\Store.Common.csproj": {
+    "F:\\Soheil\\Mvc\\Tamarin\\Bugeto AspCore 5\\MystoreInGithub\\New shortcut.lnk\\MyStoreApp\\Store.Common\\Store.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Soheil\\Mvc\\Tamarin\\Bugeto AspCore 5\\StoreProject\\MyStoreApp\\Store.Common\\Store.Common.csproj",
+        "projectUniqueName": "F:\\Soheil\\Mvc\\Tamarin\\Bugeto AspCore 5\\MystoreInGithub\\New shortcut.lnk\\MyStoreApp\\Store.Common\\Store.Common.csproj",
         "projectName": "Store.Common",
-        "projectPath": "F:\\Soheil\\Mvc\\Tamarin\\Bugeto AspCore 5\\StoreProject\\MyStoreApp\\Store.Common\\Store.Common.csproj",
+        "projectPath": "F:\\Soheil\\Mvc\\Tamarin\\Bugeto AspCore 5\\MystoreInGithub\\New shortcut.lnk\\MyStoreApp\\Store.Common\\Store.Common.csproj",
         "packagesPath": "C:\\Users\\Amir\\.nuget\\packages\\",
-        "outputPath": "F:\\Soheil\\Mvc\\Tamarin\\Bugeto AspCore 5\\StoreProject\\MyStoreApp\\Store.Common\\obj\\",
+        "outputPath": "F:\\Soheil\\Mvc\\Tamarin\\Bugeto AspCore 5\\MystoreInGithub\\New shortcut.lnk\\MyStoreApp\\Store.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

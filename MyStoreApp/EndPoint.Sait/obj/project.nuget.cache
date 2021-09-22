@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "75SfWLiJZBBU0I5va3NsJ8R/ggqFqKd9SlQ+itVpP82BteS14nGN75BppMumbcjunQG+SMynkQZdMDEyo5Q8jg==",
+  "dgSpecHash": "TYoEDbXeQQctzG9c5bEJhK/gVvw9EWXwhyNeSllHmZKsXivHBDL/eIuSgDBeag+BosobRn3iWe+Q5wq/N8GiUg==",
   "success": true,
-  "projectFilePath": "F:\\Soheil\\Mvc\\Tamarin\\Bugeto AspCore 5\\StoreProject\\MyStoreApp\\EndPoint.Sait\\EndPoint.Sait.csproj",
+  "projectFilePath": "F:\\Soheil\\Mvc\\Tamarin\\Bugeto AspCore 5\\MystoreInGithub\\New shortcut.lnk\\MyStoreApp\\EndPoint.Sait\\EndPoint.Sait.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Amir\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\5.0.4\\microsoft.aspnetcore.mvc.razor.extensions.5.0.4.nupkg.sha512",
     "C:\\Users\\Amir\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\5.0.4\\microsoft.aspnetcore.mvc.razor.runtimecompilation.5.0.4.nupkg.sha512",
